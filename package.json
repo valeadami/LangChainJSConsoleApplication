@@ -1,0 +1,18 @@
+{
+  "name": "langchainjs",
+  "version": "1.0.0",
+  "description": "progetto per LangChain JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VA",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "gpt-3-encoder": "^1.1.4",
+    "langchain": "^0.0.147",
+    "readline": "^1.3.0",
+    "serpapi": "^2.0.0"
+  }
+}
