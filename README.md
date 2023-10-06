@@ -27,7 +27,7 @@ You can create first a env.txt, add the following content and then rename it as 
 
 In order to use OpenAI's models it is mandatory to add the value of your OpenAI key:
 
-```    OPENAI_API_KEY=INSERT HERE YOUR OPENAI KEY```
+```OPENAI_API_KEY=INSERT HERE YOUR OPENAI KEY```
 
 These keys are optional
   ```  
